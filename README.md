@@ -14,7 +14,7 @@ Estou sempre procurando novas ideias, novas tecnologias e a melhor forma de escr
 
 Peça-me mais informações, se você não encontrar o que deseja.
 
-- 💻 Estou sempre aprendendoReactJs, Recoiljs, Module Federation Webpack 5 .
+- 💻 Estou sempre aprendendo ReactJs, Recoiljs, Module Federation Webpack 5 .
 - :books: Lendo Código Limpo, Arquitetura Limpa e estrutura de dados e algoritmo com JavaScript
 - 😄 I love JavasSript.
 - 🎓 Computer Science
